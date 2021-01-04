@@ -1,0 +1,18 @@
+转到某个文件夹下
+
+git init 初始化
+git add xxx文件名字
+git status 显示提交了几个文件
+git commit -m ‘dfafds’ 这次提交的名字
+
+git add xxx 提交别的东西
+
+git log 显示提交日志文件，和对应的名字
+
+git commit -m ‘xxfdsf’ 又一次提交的名字
+
+git log 提交的记录
+
+git reflog 提交版本对应的id
+
+git reset --hard id 恢复到那个版本
